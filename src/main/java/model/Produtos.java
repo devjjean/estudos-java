@@ -1,3 +1,5 @@
+package model;
+
 public class Produtos {
     
     // aqui cria os atributos para produtos.
